@@ -4,7 +4,7 @@ body{
     background-color: darkolivegreen;
  background-repeat: repeat;
    background: fixed;
-    background-image: url("images/background.webp");
+    background-image: url("background.webp");
 }
 
 .nav{
